@@ -19,7 +19,8 @@ npm init -y
 npm install express mongoose cors socket.io
 Folder Structure (Backend):
 
-Screenshot-2024-01-11-195107
+<img width="155" alt="Screenshot 2024-04-18 at 11 11 08 PM" src="https://github.com/Alpha606/WebSite-Chat/assets/75906705/43b5ba10-7fcd-4381-ba46-5e1cf94c6fd2">
+
 
 Dependencies (Backend):
 
@@ -45,6 +46,8 @@ Step 5: Install the required dependencies.
 
 npm install axios react-router-dom socket.io-client
 Folder Structure(Frontend):
+<img width="155" alt="Screenshot 2024-04-18 at 11 11 19 PM" src="https://github.com/Alpha606/WebSite-Chat/assets/75906705/714e2dee-bf3c-4387-9e8f-ef052bb2b3e9">
+
 
 wq
 
@@ -68,3 +71,5 @@ Dependencies(Frontend):
 Step 6: To start the frontend run the following command.
 
 npm start
+<img width="1339" alt="Screenshot 2024-04-18 at 11 10 48 PM" src="https://github.com/Alpha606/WebSite-Chat/assets/75906705/43f7b929-6d61-4f27-bd39-a66ab4e912b5">
+
