@@ -7,13 +7,13 @@ Lastly, we will create a database in MongoDB to store the messages.
 Steps to Create the Project:
 
 
-Step 1: Create a new project folder and navigate to it:
+**Step 1:** Create a new project folder and navigate to it:
 
 mkdir chat-backend
 cd chat-backend
 
 
-Step 2: Initialize a Node application and install required dependencies:
+**Step 2: **Initialize a Node application and install required dependencies:
 
 npm init -y
 npm install express mongoose cors socket.io
@@ -32,24 +32,27 @@ Dependencies (Backend):
 }
 
 
-Step 3: To start the server run the following command.
+**Step 3:** To start the server run the following command.
 
 node server.js
-Step 4: Creating the frontend of the app by using the following command
+
+**Step 4:** Creating the frontend of the app by using the following command
 
 
-/FrontEnd
+_**/FrontEnd**_
 cd ..
 npx create-react-app chat-frontend
-cd chat-frontend
-Step 5: Install the required dependencies.
 
-npm install axios react-router-dom socket.io-client
-Folder Structure(Frontend):
+cd chat-frontend
+
+**Step 5: **Install the required dependencies.
+
+_npm install axios react-router-dom socket.io-client_
+
+
+**Folder Structure(Frontend):**
 <img width="155" alt="Screenshot 2024-04-18 at 11 11 19 PM" src="https://github.com/Alpha606/WebSite-Chat/assets/75906705/714e2dee-bf3c-4387-9e8f-ef052bb2b3e9">
 
-
-wq
 
 Dependencies(Frontend):
 
@@ -67,9 +70,9 @@ Dependencies(Frontend):
     "web-vitals": "^2.1.4"
 }
 
-/output
+**/output**__
 Step 6: To start the frontend run the following command.
 
-npm start
+**npm start**
 <img width="1339" alt="Screenshot 2024-04-18 at 11 10 48 PM" src="https://github.com/Alpha606/WebSite-Chat/assets/75906705/43f7b929-6d61-4f27-bd39-a66ab4e912b5">
 
